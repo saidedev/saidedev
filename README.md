@@ -9,7 +9,6 @@
 - ⚡ Fun fact: I still can't earn money. If you give me a chance, I will be forever grateful to you.
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4082208" style='border:none;'></iframe>
 
 
 <!---
