@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I still can't earn money. If you give me a chance, I will be forever grateful to you.
 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/saidedev.png" alt="Your Image Badge" />
 
 
 <!---
